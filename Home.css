@@ -1,0 +1,208 @@
+.login{
+    margin-left: 600%;   
+}
+.brand{
+     font-weight: 900;
+      font-family: "Cinzel", serif;  
+}
+.green{
+    color: green;
+}
+.grocers{
+    color: orangered;
+}
+.navbtn{
+    color: black;
+    font-family: monospace;
+    font-weight:900;
+   
+}
+.navclr{
+    background-color: lightgrey;
+}
+.caro{
+    margin-top: 2%;
+}
+.offer1{
+    margin-left: 10%;
+    width: 80%;
+   height: 400px;
+}
+
+.offer2{
+    
+    margin-left: 10%;
+    width: 80%;
+   height: 500px;
+}
+.ad{
+    height: 600px;
+}
+@media screen and(max-width: 600px){
+     .ad{
+        max-width: 400px;
+     }
+}
+.background{
+   
+    width: 15%;
+    margin-top: 20%;
+    margin-left: 40%;
+}
+.abouthead{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: xx-large;
+     background-image: url('https://previews.123rf.com/images/bentchang/bentchang1803/bentchang180301172/97222916-motivation-business-conceptual-word-cloud-for-for-design-wallpaper-texture-or-background-grunge.jpg');
+     padding: 60px;
+     opacity: 0.5;
+     
+}
+.abg{
+    
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: x-large;    
+}
+.aot{
+   
+     cursor: pointer;
+     
+}
+.aboutbg{
+    background: linear-gradient( black 30%, );
+}
+.offerbutton{
+    display: flex;
+    margin-top: 2%;
+    padding: 1%;
+    justify-content: center;
+    border-radius: 50px 10px;
+    column-gap: 50px;
+}
+.bt1{
+    font-weight: 600;
+    background-color: gainsboro;
+    border-radius: 10px;
+    font-size: x-large;
+    box-shadow: 7px 7px grey; 
+    transition: width 2s, height 2s, transform 2s;
+}
+.bt1:hover{
+    transform: rotate(360deg);
+
+}
+.bt2{
+    background-color: aliceblue;
+    border-radius:  10px;
+    font-size: x-large;
+    font-weight: 600;
+    box-shadow: 7px 7px grey;
+    transition: width 2s, height 2s, transform 2s;
+}
+.bt2:hover{
+    transform: rotate(360deg);
+}
+.bt3{
+    background-color: #789731;
+    border-radius:  10px;;
+    font-size: x-large;
+    font-weight: 600;
+    box-shadow: 7px 7px grey;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+.bt3:hover{
+    transform: rotate(360deg);
+}
+.bt4{
+    background-color: orangered;
+    border-radius: 10px;
+    font-size: x-large;
+    font-weight: 600;
+    box-shadow: 7px 7px grey;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+.bt4:hover{
+    transform: rotate(360deg);
+}
+.bt5{
+    background-color: #002366;
+    border-radius: 10px;
+    font-size: x-large;
+    font-family: sans-serif;
+    font-weight: 600;
+    box-shadow: 7px 7px grey;
+    transition: width 2s, height 2s, transform 2s;
+     
+}
+
+.bt5:hover{
+    transform: rotate(360deg);
+}
+.homecart{
+   margin-inline-start: 10%;
+   margin-inline-end: 10%;
+
+    
+}
+h4{
+    margin-inline-start: 8%;
+    font-weight: 600;
+    color: black;
+    
+}
+.offercard{
+    display: flex;
+    padding: 2rem 2rem 2rem;
+    justify-content: center;
+    cursor: pointer;
+     font-weight: 900;
+   
+      column-gap: 50px;
+
+      
+}
+.bestoffer1{
+    display: block;
+    margin-top: 12%;
+    
+}
+.deals{
+    background: linear-gradient( red 50%, white 50%);
+    
+}
+.cont{
+    text-align: center;
+    margin-top: 3%;
+}
+.contpara{
+    text-align: center;
+}
+.contdetails{
+    text-align: center;
+    padding: 5px;
+    line-height: 250%;
+    padding: 1%;
+}
+.contphone{
+    padding: 1%;
+    line-height: 300%;
+}
+.contmessage{
+    padding: 1%;
+    line-height: 300%;
+}
+.footbg{
+    background-color: black;
+}
+.aboutpara{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    margin-inline-start: 30%;
+    margin-inline-end: 30%;
+}
+.contwhole{
+    margin-top: 8%;
+}
